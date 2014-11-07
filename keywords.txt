@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For M9803RMaster
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+M9803RMaster	KEYWORD1
+M9803RSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ku8M9803RFrameMalformed		LITERAL1
+ku8M9803ROverRange		LITERAL1
+ku8MBSuccess			LITERAL1
