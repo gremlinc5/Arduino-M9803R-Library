@@ -19,6 +19,6 @@ begin	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-ku8M9803RFrameMalformed		LITERAL1
-ku8M9803ROverRange		LITERAL1
-ku8MBSuccess			LITERAL1
+ku8M9803RFrameMalformed	LITERAL1
+ku8M9803ROverRange	LITERAL1
+ku8MBSuccess	LITERAL1
